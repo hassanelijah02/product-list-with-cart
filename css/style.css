@@ -290,7 +290,6 @@ img {
     font-size: 10px;
     color: var(--Rose-300);
     cursor: pointer;
-    line-height: 14px;
 }
 
 .button-remove:hover {
